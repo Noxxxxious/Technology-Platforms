@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "lab1_csharp": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\micha\\Desktop\\sem4\\PT\\lab1_csharp\\test"
+    }
+  }
+}
